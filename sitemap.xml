@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://127.0.0.1/index.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.get.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.isNull.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.nullify.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.refCount.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.this.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.this.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/RC.weakCount.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/Unique.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/Weak.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/Weak.isNull.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/Weak.nullify.html</loc></url>
+<url><loc>http://127.0.0.1/std/experimental/rc/Weak.this.html</loc></url>
+</urlset>
